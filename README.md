@@ -1,3 +1,3 @@
 
 
-[link](b.md)
+[link](B.md)
